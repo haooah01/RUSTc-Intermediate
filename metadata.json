@@ -1,0 +1,5 @@
+{
+  "description": "An interactive dashboard explaining the Rust compiler architecture, multi-core CPU optimization, and performance metrics (Real vs User time) for system-level build processes.",
+  "requestFramePermissions": [],
+  "name": "Copy of RUSTc 4 Core Distribution"
+}
